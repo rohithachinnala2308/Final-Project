@@ -18,7 +18,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/Rohitha/Final-Project.git
+git clone https://github.com/rohithachinnala2308/Final-Project.git
 Open the index.html file in your browser.
 
 How to Use
